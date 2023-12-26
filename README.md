@@ -1,14 +1,14 @@
-### Sellsword demo
+# Sellsword demo
 
 This repository contains the demo for Sellsword.
 
-### How to download and play
+## How to download and play
 
 Visit the <a href="https://github.com/K11MCH1/SellswordDemo/releases">Releases page</a> and download the version according to the device you are using.
 For the PC version, an unpacker software is required to unpack the game. We recommend Winrar/7z. Both are 'Free'.
 Navigation system for the main menu hasn't been implemented yet. A mouse is required.
 
-# PC controls
+## PC controls
 
 Space -        Jump
 CTRL  -        Attack
